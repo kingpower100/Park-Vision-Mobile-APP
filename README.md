@@ -1,4 +1,11 @@
 # ParkVision - Smart Parking Management System
+[![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-009688.svg)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12%2B-336791.svg)](https://www.postgresql.org/)
+[![Expo SDK](https://img.shields.io/badge/Expo%20SDK-54-black.svg)](https://docs.expo.dev/)
+[![React Native](https://img.shields.io/badge/React%20Native-0.79.x-61DAFB.svg)](https://reactnative.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6.svg)](https://www.typescriptlang.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 
 A comprehensive smart parking solution consisting of a React Native mobile application and FastAPI backend service. The system provides real-time parking spot monitoring, interactive maps, and user management.
 
