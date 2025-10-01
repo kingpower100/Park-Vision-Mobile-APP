@@ -15,6 +15,7 @@ A comprehensive smart parking solution consisting of a React Native mobile appli
 ParkVision/
 ├── FRONT-PARKVISION-P2M-/ParkVision/    # React Native Mobile App
 ├── BACK-PARKVISION-P2M/smart-parking-backend/  # FastAPI Backend
+├── License /MIT License/ 
 └── README.md                            # This file
 ```
 
