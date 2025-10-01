@@ -268,21 +268,24 @@ Parking Spots (1) ──→ (N) Parking Status
 4. Test thoroughly
 5. Submit a pull request
    
-🖼️ Screenshots & Demos
+## 🖼️ Screenshots & Demos
 
 
-Splash Screens
+## Splash Screens
+
 ![IMG_1](https://github.com/user-attachments/assets/893ee96e-07c4-4a15-af61-62940f56214d)
+
+
 
 ![Image1](https://github.com/user-attachments/assets/e5c6fb9b-a2fd-474e-8396-35f3f1dea1de)
 
-Sign up Screen
+## Sign up Screen
 ![IMG_2](https://github.com/user-attachments/assets/fe993fa9-56e8-47f0-99ca-df1e3cf88369)
 
-Login Screen 
+## Login Screen 
 ![IMG_0722](https://github.com/user-attachments/assets/3dae8256-386d-4195-8a22-44ddefd9d84d)
 
-App Workflow
+## App Workflow
 ![IMG_0723](https://github.com/user-attachments/assets/eb7ee9ea-eb34-4d2f-bad6-23525ffd46b4)
 
 ![IMG_0725](https://github.com/user-attachments/assets/46f7f197-161d-4517-9f6c-c3fdcc6ae28f)
