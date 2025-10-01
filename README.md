@@ -310,6 +310,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](../LICENSE
 For support and questions:
 - Create an issue in the repository
 - Contact the development team
+  Team:
+louay.fgaier@supcom.tn
+youssef.rekik@supcom.tn 
 - Check the individual README files for detailed documentation
 
 ## 🎯 Future Enhancements
